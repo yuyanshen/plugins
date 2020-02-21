@@ -1,0 +1,1 @@
+./katalonc -noSplash -runMode=console -retry=0 -retryFailedTestCases=false -sendMail="pisy@azaas.com" -reportFileName=report.html -testSuitePath="Test Suites/ACRA UAT" -executionProfile="UAT" -browserType="Chrome" -apiKey="70e71ce1-58c3-4a2f-a513-004529b37bcf"
